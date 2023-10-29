@@ -10,7 +10,7 @@
 3. Execute o projeto na sua IDE de preferência
 
 ## Arquivo .jar
-1.Certifique-se de que você tenha o Java Runtime Environment instalado no seu computador.
+1. Certifique-se de que você tenha o Java Runtime Environment instalado no seu computador.
 2. Baixe o arquivo com a extensão .jar e execute.   
 
 # Decisões de projeto
