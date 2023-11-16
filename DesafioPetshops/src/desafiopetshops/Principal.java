@@ -41,7 +41,7 @@ public class Principal {
         		petshops.add(new Petshops(20, 40, "Meu Canino Feliz", 2.0));
 
     		} else {
-    			petshops.add(new Petshops(15, 50, "Vai Rex", 1.7));
+    			petshops.add(new Petshops(20, 55, "Vai Rex", 1.7));
         		petshops.add( new Petshops(20 * 1.2, 40 * 1.2, "Meu Canino Feliz", 2.0));    				
     		}
 
